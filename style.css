@@ -20,7 +20,7 @@ background-image: url(images/rm183-wan-11.jpg);
         .hobby {
             display: flex;
             flex-wrap: wrap;
-            gap: 1rem;
+            gap: 2rem;
             justify-content: center;
             margin: 2rem 0;
             text-align: center;
@@ -28,8 +28,8 @@ background-image: url(images/rm183-wan-11.jpg);
         }
         .hobbies {
             border: 1px solid #ddd;
-            padding: 1rem;
-            width: 100%
+            padding: 3rem;
+            width: 100%;
             box-sizing: border-box;
             align-items: center;
             text-align: center;
@@ -39,6 +39,7 @@ background-image: url(images/rm183-wan-11.jpg);
         }
         .youtube{
             background-color: azure;
+
         }
         .game{
             background-color: aliceblue;
