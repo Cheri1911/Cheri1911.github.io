@@ -1,0 +1,78 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            color: whitesmoke;
+            padding: 1rem 0;
+            text-align: center;
+background-image: url(images/rm183-wan-11.jpg);
+            
+        }
+        section {
+            padding: 2rem;
+            
+        }
+        .hobby {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+            margin: 2rem 0;
+            text-align: center;
+            background-color: #fff;
+        }
+        .hobbies {
+            border: 1px solid #ddd;
+            padding: 1rem;
+            width: 100%
+            box-sizing: border-box;
+            align-items: center;
+            text-align: center;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            display: flex;
+        }
+        .youtube{
+            background-color: azure;
+        }
+        .game{
+            background-color: aliceblue;
+        }
+        .tiktok{
+            background-color: bisque;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        #about{
+            background-color: #f4f4f4;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+        }
+        #pendidikan{
+            background-color: #f4f4f4;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        #contact{
+            background-color: #f4f4f4;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
